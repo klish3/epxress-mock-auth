@@ -3,6 +3,7 @@
 ## Endpoints
 
 ### Auth
+
 1. /
 2. /signup
 3. /login
@@ -13,4 +14,3 @@
 2. GET - /:id
 3. POST - /
 4. PATCH - /:id
-4. DELETE - /:id
